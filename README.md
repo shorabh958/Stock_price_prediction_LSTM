@@ -42,7 +42,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact 📩
 For any questions or inquiries, feel free to reach out to us:
 - **Email:** shorabhsinghmar1@gmail.com
-- **LinkedIn:** [Adarsh Kumar Singh](https://www.linkedin.com/in/shorabh-singhmar/)
+- **LinkedIn:** [Shorabh Singhmar](https://www.linkedin.com/in/shorabh-singhmar/)
 
 Let's make accurate stock market predictions together!
 
